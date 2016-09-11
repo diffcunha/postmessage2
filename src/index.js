@@ -1,10 +1,10 @@
-import PostMessage from './PostMessage';
-import IframeChildProvider from './providers/IframeChildProvider';
-import IframeParentProvider from './providers/IframeParentProvider';
+import PostMessage from './PostMessage'
+import IframeChildProvider from './providers/IframeChildProvider'
+import IframeParentProvider from './providers/IframeParentProvider'
 
 export {
   IframeChildProvider,
   IframeParentProvider
-};
+}
 
-export default PostMessage;
+export default PostMessage
